@@ -1,0 +1,25 @@
+{
+    "development": {
+      "username": "root",
+      "password": "1234",
+      "database": "blog_platform_db",
+      "host": "127.0.0.1",
+      "port": "3307",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": "1234",
+      "database": "blog_platform_db",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": "1234",
+      "database": "blog_platform_db",
+      "host": "prod-db-host-url",
+      "dialect": "mysql"
+    }
+  }
+  
